@@ -1,0 +1,9 @@
+Estructura de la pagina
+
+1. Pagina informativa
+  1.1 recoleccion de informacion
+  1.2 menús
+  1.3 
+2. Definir lenguaje para la pagina
+3. definir herramientas a usar en la pagina
+4.
